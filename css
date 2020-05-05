@@ -1,0 +1,80 @@
+
+	@media (min-width: 1200 px) {
+		.container-big{
+	max-width: 1280 px; } }
+		
+	
+	.img {
+    position: relative;
+    width: 120%;
+    background-size: cover;
+	    background-color: #000;
+    overflow: hidden;
+	background-position: 80% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}   
+
+
+    .right {
+	
+	    
+text-align: right; }
+
+
+	
+	#influence {
+	background-position:center; }
+	
+	#influence h2 {
+	
+
+color: #ebdec2;
+font-size:17px;
+font-family: Open Sans,Arial,Helvetica,sans-serif;
+ text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0,0,0,.8);
+font-weight:400;
+text-transform:uppercase;
+text-align:right;
+padding-top: 50px;
+line-height: 1.5;
+	}
+	
+	#influence h1 {
+color: #fff;
+font-size:3.655rem;
+font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+ text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0,0,0,.8);
+font-weight:700;
+font-size:300%;
+padding-top: 5px;
+	}	
+	
+	#influence p {
+color: #ebdec2;
+font-size:100%;
+font-family: Open Sans,Arial,Helvetica,sans-serif;
+ text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0,0,0,.8);
+font-weight:400;
+padding-top: 20px;
+padding-bottom: 25px;
+
+	}	
+	
+	#influence a {
+    background: #b06601;
+    color: #f7b10a;
+    background: rgba(0,0,0,.4);
+    border: 1px solid #b06601;
+    min-width: 180px;
+    text-transform: uppercase;
+	padding: 12px 30px;
+	
+		}
+		
+	
